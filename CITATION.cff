@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this font, please cite it as below."
+title: "Rosmaryn Esoteric: an open font of astrological and Yijing symbols"
+type: software
+version: "0.100"
+date-released: "2026-11-25"
+authors:
+  - name: "Rosmaryn"
+    website: "https://rosmaryn.app/"
+    orcid: "https://orcid.org/0009-0007-6170-4123"
+license: OFL-1.1
+repository-code: "https://github.com/Rosmaryn-Dev/rosmaryn-esoteric-font"
+keywords:
+  - font
+  - astrology
+  - zodiac
+  - yijing
+  - hexagrams
+  - unicode
