@@ -1,0 +1,258 @@
+{
+"1": {
+"bas": "Ciel",
+"haut": "Ciel"
+},
+"2": {
+"bas": "Terre",
+"haut": "Terre"
+},
+"3": {
+"bas": "Tonnerre",
+"haut": "Eau"
+},
+"4": {
+"bas": "Eau",
+"haut": "Montagne"
+},
+"5": {
+"bas": "Ciel",
+"haut": "Eau"
+},
+"6": {
+"bas": "Eau",
+"haut": "Ciel"
+},
+"7": {
+"bas": "Eau",
+"haut": "Terre"
+},
+"8": {
+"bas": "Terre",
+"haut": "Eau"
+},
+"9": {
+"bas": "Ciel",
+"haut": "Vent"
+},
+"10": {
+"bas": "Lac",
+"haut": "Ciel"
+},
+"11": {
+"bas": "Ciel",
+"haut": "Terre"
+},
+"12": {
+"bas": "Terre",
+"haut": "Ciel"
+},
+"13": {
+"bas": "Feu",
+"haut": "Ciel"
+},
+"14": {
+"bas": "Ciel",
+"haut": "Feu"
+},
+"15": {
+"bas": "Montagne",
+"haut": "Terre"
+},
+"16": {
+"bas": "Terre",
+"haut": "Tonnerre"
+},
+"17": {
+"bas": "Tonnerre",
+"haut": "Lac"
+},
+"18": {
+"bas": "Vent",
+"haut": "Montagne"
+},
+"19": {
+"bas": "Lac",
+"haut": "Terre"
+},
+"20": {
+"bas": "Terre",
+"haut": "Vent"
+},
+"21": {
+"bas": "Tonnerre",
+"haut": "Feu"
+},
+"22": {
+"bas": "Feu",
+"haut": "Montagne"
+},
+"23": {
+"bas": "Terre",
+"haut": "Montagne"
+},
+"24": {
+"bas": "Tonnerre",
+"haut": "Terre"
+},
+"25": {
+"bas": "Tonnerre",
+"haut": "Ciel"
+},
+"26": {
+"bas": "Ciel",
+"haut": "Montagne"
+},
+"27": {
+"bas": "Tonnerre",
+"haut": "Montagne"
+},
+"28": {
+"bas": "Vent",
+"haut": "Lac"
+},
+"29": {
+"bas": "Eau",
+"haut": "Eau"
+},
+"30": {
+"bas": "Feu",
+"haut": "Feu"
+},
+"31": {
+"bas": "Montagne",
+"haut": "Lac"
+},
+"32": {
+"bas": "Vent",
+"haut": "Tonnerre"
+},
+"33": {
+"bas": "Montagne",
+"haut": "Ciel"
+},
+"34": {
+"bas": "Ciel",
+"haut": "Tonnerre"
+},
+"35": {
+"bas": "Terre",
+"haut": "Feu"
+},
+"36": {
+"bas": "Feu",
+"haut": "Terre"
+},
+"37": {
+"bas": "Feu",
+"haut": "Vent"
+},
+"38": {
+"bas": "Lac",
+"haut": "Feu"
+},
+"39": {
+"bas": "Montagne",
+"haut": "Eau"
+},
+"40": {
+"bas": "Eau",
+"haut": "Tonnerre"
+},
+"41": {
+"bas": "Lac",
+"haut": "Montagne"
+},
+"42": {
+"bas": "Tonnerre",
+"haut": "Vent"
+},
+"43": {
+"bas": "Ciel",
+"haut": "Lac"
+},
+"44": {
+"bas": "Vent",
+"haut": "Ciel"
+},
+"45": {
+"bas": "Terre",
+"haut": "Lac"
+},
+"46": {
+"bas": "Vent",
+"haut": "Terre"
+},
+"47": {
+"bas": "Eau",
+"haut": "Lac"
+},
+"48": {
+"bas": "Vent",
+"haut": "Eau"
+},
+"49": {
+"bas": "Feu",
+"haut": "Lac"
+},
+"50": {
+"bas": "Vent",
+"haut": "Feu"
+},
+"51": {
+"bas": "Tonnerre",
+"haut": "Tonnerre"
+},
+"52": {
+"bas": "Montagne",
+"haut": "Montagne"
+},
+"53": {
+"bas": "Montagne",
+"haut": "Vent"
+},
+"54": {
+"bas": "Lac",
+"haut": "Tonnerre"
+},
+"55": {
+"bas": "Feu",
+"haut": "Tonnerre"
+},
+"56": {
+"bas": "Montagne",
+"haut": "Feu"
+},
+"57": {
+"bas": "Vent",
+"haut": "Vent"
+},
+"58": {
+"bas": "Lac",
+"haut": "Lac"
+},
+"59": {
+"bas": "Eau",
+"haut": "Vent"
+},
+"60": {
+"bas": "Lac",
+"haut": "Eau"
+},
+"61": {
+"bas": "Lac",
+"haut": "Vent"
+},
+"62": {
+"bas": "Montagne",
+"haut": "Tonnerre"
+},
+"63": {
+"bas": "Feu",
+"haut": "Eau"
+},
+"64": {
+"bas": "Eau",
+"haut": "Feu"
+}
+}

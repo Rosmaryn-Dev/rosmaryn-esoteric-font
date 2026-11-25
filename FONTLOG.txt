@@ -1,0 +1,13 @@
+FONTLOG for Rosmaryn Esoteric
+
+Basic font information
+Rosmaryn Esoteric is a font of esoteric symbols (zodiac, planets, asteroids,
+astrological aspects, Yijing monograms, digrams, trigrams and hexagrams),
+released under the SIL Open Font License 1.1.
+
+ChangeLog
+2026-11-25 (Rosmaryn) Version 0.100
+- First release: Light, Regular and Bold, 120 glyphs each.
+
+Acknowledgements
+Designed by Rosmaryn (https://rosmaryn.app/).
